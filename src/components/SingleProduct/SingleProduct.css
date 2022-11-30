@@ -1,0 +1,9 @@
+.product_image{
+    height: 200px;
+    object-fit: cover;
+}
+.products{
+    width: 30%;
+    margin: 10px;
+    height: 10;   
+}
